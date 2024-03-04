@@ -1,0 +1,1 @@
+This is a clone Project for the Netflix Project doing as for practice
